@@ -1,4 +1,4 @@
 # GitPractice
 GitPractice Commands
 <br/>
-Author : Shivam
+Author : Shivam Trivedi
